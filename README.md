@@ -8,8 +8,8 @@ Abstract: K-mean clustering algorithm is an efficient and easy to implement unsu
 K均值聚类算法·K-mean clustering algorithm
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/9c804bf1-c943-4fd7-b8ef-f24ed935b0a9)
 运行结果·running result
-![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/56859b84-43bd-4110-90c9-5acfe437f368)
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/8558cb0d-a131-425b-8c37-6f6912a756a9)
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/a9c189ba-80c5-42d9-9beb-b3f3b82a0c8d)
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/c40e0ff0-a9d7-49bf-84b1-9ea0ef32374f)
+![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/56859b84-43bd-4110-90c9-5acfe437f368)
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/d180174a-8dbc-4b5d-9dc4-eef798ddc43f)

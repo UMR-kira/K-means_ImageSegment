@@ -1,5 +1,4 @@
 # AdaptiveK-meansImageSegment
-基于直方图的自适应K-均值聚类图像分割算法
 Histogram-based adaptive K-means clustering image segmentation algorithm
 
 摘要：K-均值聚类算法是一种效率高、容易实现的无监督机器学习方法，也是最常用的聚类算法之一，但K-均值聚类算法也存在一定的局限性，无法合理的确定K值以及初始聚类中心，如果给出了不恰当的初始值就会造成算法效率的下滑，还可能使得聚类陷入错误的局部极值中。本算法从反应图像灰度分布的直方图入手，平滑直方图并以波峰数量和位置确定K以及初始聚类中心，实现自适应K-均值聚类图像分割。

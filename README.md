@@ -5,7 +5,7 @@ K-均值聚类算法是一种效率高、容易实现的无监督机器学习方
 *****
 ### Histogram Smoothing
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/cd93dfc0-b0b4-4bdc-8f35-9de831218f63)  
-#### K-mean clustering 
+### K-mean clustering 
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/9c804bf1-c943-4fd7-b8ef-f24ed935b0a9)  
 *****
 ### running result  

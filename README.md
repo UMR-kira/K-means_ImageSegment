@@ -14,4 +14,7 @@ K均值聚类算法·K-mean clustering algorithm
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/8558cb0d-a131-425b-8c37-6f6912a756a9)
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/a9c189ba-80c5-42d9-9beb-b3f3b82a0c8d)
 ![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/c40e0ff0-a9d7-49bf-84b1-9ea0ef32374f)
-![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/56859b84-43bd-4110-90c9-5acfe437f368)![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/d180174a-8dbc-4b5d-9dc4-eef798ddc43f)
+
+对比图·comparison chart
+![image](https://github.com/UMR-kira/AdaptiveK-meansImageSegment/assets/113828450/d4d4e69c-e902-48ba-b28b-03fc46d96698)
+

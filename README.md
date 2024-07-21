@@ -1,4 +1,4 @@
-# AdaptiveK-meansImageSegment
+# Adaptive K-means Image Segment
 ### Histogram-based adaptive K-means clustering image segmentation algorithm  
 K-mean clustering algorithm is an efficient and easy to implement unsupervised machine learning method and one of the most commonly used clustering algorithms, but the K-mean clustering algorithm also has certain limitations: it can not be reasonable to determine the K value and the initial clustering centers. if an inappropriate initial value is given will cause the algorithm's efficiency to decline, and it may also make the clustering fall into the wrong local extreme value. This algorithm starts from the histogram that reacts to the gray scale distribution of the image, smoothes the histogram and determines the K and the initial clustering center by the number and position of the wave peaks to realize the adaptive K-mean clustering image segmentation.  
   
